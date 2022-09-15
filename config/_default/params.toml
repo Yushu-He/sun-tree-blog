@@ -17,7 +17,7 @@ subtitle = "Born in darkness, grow in wind and rain, ripe in sunshine."
 
 [sidebar.avatar]
 enabled = true
-local = false
+local = true
 src = "img/avatar.png"
 
 [article]
