@@ -1,4 +1,4 @@
-## Sun-tree Blog
+# Sun-tree Blog
 
 This is the github repo for my [blog](https://sun-tree.ink).
 
