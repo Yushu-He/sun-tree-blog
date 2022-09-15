@@ -74,11 +74,11 @@ enabled = true
 
 ## Comments
 [comments]
-enabled = true
+enabled = false
 provider = "disqus"
 
 [comments.disqusjs]
-shortname = ""
+shortname = "sun-tree"
 apiUrl = ""
 apiKey = ""
 admin = ""
