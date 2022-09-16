@@ -1,7 +1,7 @@
 ---
 title: Technology
-description: All the posts related to technology
-image:
+description: Technology tutorial & Recording of my practice/view on technology
+image: technology.jpg
 
 # Badge style
 style:
