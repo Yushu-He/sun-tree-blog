@@ -1,6 +1,6 @@
 ---
-title: Build Your Own Blog Website With Hugo 
-description: This post is a tutorial about how to build your own blog website with hugo
+title: [教程]搭建个人博客——Hugo+Github+Netlify+Cloudflare
+description: 这篇文章将帮助您建立您的个人博客——就像这个网站！
 slug: build-your-own-blog-website
 date: 2022-09-14 00:00:00+0000
 image: cover.jpg
@@ -8,7 +8,7 @@ categories:
     - Technology
 tags:
     - Hugo
-    - Blog
+    - 博客
     - Netlify
     - Cloudflare
 ---
