@@ -15,10 +15,18 @@ url = "https://github.com/Yushu-He"
 [social.params]
 icon = "brand-github"
 
+#[[social]]
+#identifier = "twitter"
+#name = "Twitter"
+#url = "https://twitter.com"
+
+#[social.params]
+#icon = "brand-twitter"
+
 [[social]]
-identifier = "twitter"
-name = "Twitter"
-url = "https://twitter.com"
+identifier = "bilibili"
+name = "Bilibili"
+url = "https://space.bilibili.com/174814440"
 
 [social.params]
-icon = "brand-twitter"
+icon = "brand-bilibili"
