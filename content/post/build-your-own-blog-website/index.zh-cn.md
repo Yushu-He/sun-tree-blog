@@ -5,7 +5,7 @@ slug: build-your-own-blog-website
 date: 2022-09-14 00:00:00+0000
 image: cover.jpg
 categories:
-    - 技术
+    - Technology
 tags:
     - Hugo
     - 博客

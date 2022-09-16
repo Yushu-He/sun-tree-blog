@@ -5,7 +5,7 @@ slug: running-code-server-on-your-raspberry-pi-4b
 date: 2022-09-14 00:00:00+0000
 image: cover.jpg
 categories:
-    - 技术
+    - Technology
 tags:
     - 树莓派4B
     - Code-server
