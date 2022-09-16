@@ -11,4 +11,8 @@ tags:
     - Epidemic
 ---
 
-SJTU is suddenly locked down due to the epidemic. Sad :(. Hope everthing would get better soon.
+SJTU is suddenly locked down due to the epidemic. 
+
+Sad :( 
+    
+Hope everthing would get better soon.
