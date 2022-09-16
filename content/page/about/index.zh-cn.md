@@ -18,9 +18,11 @@ menu:
 
 ## 关于小站
 
-本博客使用[Hugo](#关于hugo以下内容来自hugo中文文档httpswwwgohugoorgdoc)构建，由[Netlify](https://www.netlify.com/)提供自动编译，采用主题[Stack](https://github.com/CaiJimmy/hugo-theme-stack)
+本博客使用[Hugo](#关于hugo)构建，由[Netlify](https://www.netlify.com/)提供自动编译，采用主题[Stack](https://github.com/CaiJimmy/hugo-theme-stack)
 
-## 关于Hugo（以下内容来自[Hugo中文文档](https://www.gohugo.org/doc/)）
+## 关于Hugo
+
+以下内容来自[Hugo中文文档](https://www.gohugo.org/doc/)
 
 通过 Hugo 你可以快速搭建你的静态网站，比如博客系统、文档介绍、公司主页、产品介绍等等。相对于其他静态网站生成器来说，Hugo 具备如下特点：
 
