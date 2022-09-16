@@ -5,7 +5,7 @@ slug: sjtu-epidemic-lock-down
 date: 2022-09-13 12:33:00+0000
 image: cover.jpg
 categories:
-    - 生活
+    - 日常
 tags:
     - 交大
     - 疫情
