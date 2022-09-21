@@ -31,7 +31,16 @@ Note: you don't need to care which voltage is higher, simply use the **voltage a
 If a circuit with only independent current
 sources has nonreference nodes, the nodevoltage equations can be written as
 
-$\left[ \begin{array}{cccc} G_{11}&G_{12}&\cdot\cdot\cdot&G_{1N}\\ G_{21}&G_{22}&\cdot\cdot\cdot&G_{2N}\\ \cdot\cdot\cdot&\cdot\cdot\cdot&\cdot\cdot\cdot&\cdot\cdot\cdot& \\ G_{11}&G_{12}&\cdot\cdot\cdot&G_{1N}\end{array} \right]\left[ \begin{array}{c} v_1\\ v_2\\ \cdot\cdot\cdot\\ v_4\end{array} \right]=\left[ \begin{array}{c} i_1\\ i_2\\ \cdot\cdot\cdot\\ i_4\end{array} \right]$
+$\left[ \begin{array}{cccc} G_{11}&G_{12}&\cdot\cdot\cdot&G_{1N}\\
+G_{21}&G_{22}&\cdot\cdot\cdot&G_{2N}\\
+\cdot\cdot\cdot&\cdot\cdot\cdot&\cdot\cdot\cdot&\cdot\cdot\cdot& \\
+G_{11}&G_{12}&\cdot\cdot\cdot&G_{1N}\end{array} \right]\left[ \begin{array}{c} v_1\\
+v_2\\
+\cdot\cdot\cdot\\
+v_4\end{array} \right]=\left[ \begin{array}{c} i_1\\
+i_2\\
+\cdot\cdot\cdot\\
+i_4\end{array} \right]$
 
 **Note**: Only valid for circuits with **current sources** and **linear resistors**.
 
