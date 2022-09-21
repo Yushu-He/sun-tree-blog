@@ -1,5 +1,5 @@
 function runtime() {
-	window.setTimeout("runtime()", 1000);
+	setTimeout("runtime()", 1000);
 	/* 请修改这里的起始时间 */
     let startTime = new Date('09/13/2022 15:00:00');
     let endTime = new Date();
