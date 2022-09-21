@@ -68,4 +68,3 @@ x_i=\dfrac{\det (...,a_{i-1} , b , a_{i+1} , ...)}{\det (A)}
 $$
 
 ### Mesh analysis: based on KVL
-
