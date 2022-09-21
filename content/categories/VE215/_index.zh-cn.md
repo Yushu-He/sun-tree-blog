@@ -1,7 +1,7 @@
 ---
 title: 电路导论
 description: 电路导论VE215课程笔记
-image: "VE215.jpg"
+image: "VE215.png"
 
 # Badge style
 style:
