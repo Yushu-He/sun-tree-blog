@@ -57,7 +57,7 @@ $$
 $G_{kk}=$Sum of the conductances connected to node ${k}$
 $G_{kj}=G_{jk}=$Negative of the sum of the conductances directly connecting nodes $k$ and $j$, $k\neq j$
 $v_k=$Unknown voltage at node ${k}$
-$i_k=$Sum of all independent current sources directly connected to node , with currents **entering** the node treated as **positive**
+$i_k=$Sum of all independent current sources directly connected to node, with currents **entering** the node treated as **positive**.
 
 #### Cramer's rule
 
