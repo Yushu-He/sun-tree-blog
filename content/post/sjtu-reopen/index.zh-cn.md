@@ -7,8 +7,6 @@ image: cover.jpg
 categories:
     - Life
 tags:
-    - 交大
-    - 疫情
 ---
 
 喔喔喔喔喔解封了喔喔喔喔喔
