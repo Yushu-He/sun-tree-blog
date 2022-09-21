@@ -3,7 +3,7 @@ title: SJTU reopen!!!
 description: SJTU is now reopened
 slug: sjtu-reopen
 date: 2022-09-21 22:33:17+0000
-image: cover.jpg
+image: 
 categories:
     - Life
 tags:
