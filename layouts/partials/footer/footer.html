@@ -24,4 +24,9 @@
         {{ T "footer.builtWith" (dict "Generator" $Generator) | safeHTML }} <br />
         {{ T "footer.designedBy" (dict "Theme" $Theme "DesignedBy" $DesignedBy) | safeHTML }}
     </section>
+    {{ if .Site.Params.js.live2d-config -}}
+    <script type="text/javascript" src="{{ $.Site.Params.js.live2d-widget1 | absURL }}"></script>
+    <script type="text/javascript" src="{{ $.Site.Params.js.live2d-widget2 | absURL }}"></script>
+    <script type="text/javascript" src="{{ $.Site.Params.js.live2d-config | absURL }}"></script>
+    {{- end }}
 </footer>
