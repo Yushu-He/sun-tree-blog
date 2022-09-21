@@ -4,7 +4,7 @@ mainSections = ["post"]
 rssFullContent = true
 
 # Favicon
-favicon = "icons/favicon.ico"
+favicon = "/img/favicon.ico"
 
 [footer]
 since = 2022
