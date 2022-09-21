@@ -7,6 +7,8 @@ image: cover.jpg
 categories:
     - Life
 tags:
+    - SJTU
+    - Epidemic
 ---
 
 SJTU is now gradually reopening!
