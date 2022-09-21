@@ -146,3 +146,11 @@ clientSecret = ""
 [comments.cusdis]
 host = ""
 id = ""
+
+# Live2d-widgets
+[params.page.library]
+    [params.page.library.css]
+    [params.page.library.js]
+        live2d-widget1 = "js/L2Dwidget.min.js"
+        live2d-widget2 = "js/L2Dwidget.0.min.js"
+        live2d-config = "/js/live2d_config.js"
