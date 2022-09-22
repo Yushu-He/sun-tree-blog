@@ -1,6 +1,6 @@
 ---
 title: About
-description: Sun-tree, Yushu's personal blog
+description: Susurrate, Yushu's personal blog
 date: 2022-09-16
 aliases:
     - about-us
@@ -13,8 +13,6 @@ menu:
         params: 
             icon: user
 ---
-
-# About
 
 ## About this blog
 
