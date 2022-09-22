@@ -42,6 +42,6 @@
   };
   window.onload = function () {
     judge();
-    document.getElementById("dark-mode-toggle").addEventListener("click",judge);
+    document.getElementById("dark-mode-toggle").addEventListener("click",setTimeout(judge,500));
   };
 </script>
