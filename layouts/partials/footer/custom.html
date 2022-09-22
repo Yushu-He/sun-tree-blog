@@ -60,7 +60,10 @@
     },
     dialog: {
       enable: true,
-      hitokoto: true,
+      //hitokoto: true,
+      script: {
+        'every idle 20s': '$hitokoto$',
+      },
     },
   };
   window.onload = function () {
