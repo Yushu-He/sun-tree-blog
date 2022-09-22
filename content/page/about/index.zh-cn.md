@@ -1,6 +1,6 @@
 ---
 title: 关于
-description: Susurrate, 昱树的个人博客
+description: 花叶呢喃, 昱树的个人博客
 date: 2022-09-16
 aliases:
     - about-us
