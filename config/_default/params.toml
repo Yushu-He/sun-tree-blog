@@ -107,11 +107,11 @@ autoCreateIssue = false
 
 [comments.waline]
 serverURL = "https://waline-one-gamma.vercel.app"
-lang = ""
 pageview = "true"
 avatar = ""
 emoji = ["https://cdn.jsdelivr.net/gh/walinejs/emojis/weibo",
-        "https://cdn.jsdelivr.net/gh/walinejs/emojis/bilibili"]
+        "https://cdn.jsdelivr.net/gh/walinejs/emojis/bilibili",
+        "https://cdn.jsdelivr.net/gh/walinejs/emojis/qq"]
 requiredMeta = ["name", "email", "url"]
 placeholder = ""
 highlight = true
