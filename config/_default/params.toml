@@ -107,14 +107,14 @@ autoCreateIssue = false
 
 [comments.waline]
 serverURL = "comment.sun-tree.ink"
-# lang = ""
-pageview = true
-visitor = ""
+lang = ""
+visitor = "true"
 avatar = ""
 emoji = ["https://cdn.jsdelivr.net/gh/walinejs/emojis/weibo",
         "https://cdn.jsdelivr.net/gh/walinejs/emojis/bilibili"]
 requiredMeta = ["name", "email", "url"]
 placeholder = ""
+highlight = true
 
 [comments.waline.locale]
 admin = "Admin"
