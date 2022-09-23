@@ -15,7 +15,7 @@
 </style>
 
 {{- with .Site.Params.comments.waline -}}
-{{- $config := dict "el" "#waline" "dark" `html[data-scheme="dark"]` "pageview" "true" "lang" .Site.Language.Lang -}}
+{{- $config := dict "el" "#waline" "dark" `html[data-scheme="dark"]` "pageview" "true" "lang" {{- .Site.Language.Lang -}} -}}
 {{- $replaceKeys := dict "serverurl" "serverURL" "requiredmeta" "requiredMeta" "wordlimit" "wordLimit" "pagesize" "pageSize" "imageuploader" "imageUploader" "texrenderer" "texRenderer" -}}
 
 {{- range $key, $val := . -}}
