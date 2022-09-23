@@ -106,7 +106,7 @@ clientSecret = ""
 autoCreateIssue = false
 
 [comments.waline]
-serverURL = "https://waline-one-gamma.vercel.app"
+serverURL = "https://comment.sun-tree.ink"
 pageview = "true"
 avatar = ""
 emoji = ["https://cdn.jsdelivr.net/gh/walinejs/emojis/weibo",
