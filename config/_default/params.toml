@@ -108,7 +108,7 @@ autoCreateIssue = false
 [comments.waline]
 serverURL = "comment.sun-tree.ink"
 lang = ""
-visitor = "true"
+pageview = "true"
 avatar = ""
 emoji = ["https://cdn.jsdelivr.net/gh/walinejs/emojis/weibo",
         "https://cdn.jsdelivr.net/gh/walinejs/emojis/bilibili"]
