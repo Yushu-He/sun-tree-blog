@@ -78,7 +78,7 @@ enabled = true
 ## Comments
 [comments]
 enabled = true
-provider = "disqus"
+provider = "waline"
 
 [comments.disqusjs]
 shortname = "sun-tree"
@@ -106,11 +106,12 @@ clientSecret = ""
 autoCreateIssue = false
 
 [comments.waline]
-serverURL = ""
+serverURL = "comment.sun-tree.ink"
 lang = ""
 visitor = ""
 avatar = ""
-emoji = ["https://cdn.jsdelivr.net/gh/walinejs/emojis/weibo"]
+emoji = ["https://cdn.jsdelivr.net/gh/walinejs/emojis/weibo",
+        "https://cdn.jsdelivr.net/gh/walinejs/emojis/bilibili"]
 requiredMeta = ["name", "email", "url"]
 placeholder = ""
 
