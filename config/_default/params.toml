@@ -106,7 +106,7 @@ clientSecret = ""
 autoCreateIssue = false
 
 [comments.waline]
-serverURL = "comment.sun-tree.ink"
+serverURL = "https://waline-one-gamma.vercel.app"
 lang = ""
 pageview = "true"
 avatar = ""
