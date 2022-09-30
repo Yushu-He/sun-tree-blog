@@ -14,9 +14,8 @@
     </section>
 
     <section class="powerby busuanzi_container_site_uv">
-        至今有
-        <span id="busuanzi_value_site_uv"></span>
-        人温柔地路过
+		{{- $VisitorNumber := `<span id="busuanzi_value_site_uv"></span>` -}}
+		{{ T "footer.visitorNum" (dict "VisitorNumber" $VisitorNumber) | safeHTML }}
 </span>
     </section>
 

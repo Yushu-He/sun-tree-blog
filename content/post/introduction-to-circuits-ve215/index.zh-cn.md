@@ -9,6 +9,7 @@ categories:
 tags:
     - VE215
     - 笔记
+draft: true
 ---
 
 This guy is too lazy, the post is still not finished yet...
