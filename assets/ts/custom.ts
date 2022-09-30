@@ -11,11 +11,17 @@ function runtime() {
     let minutes = Math.floor(leavel2 / (60 * 1000));
     let leavel3 = leavel2 % (60 * 1000);
     let seconds = Math.floor(leavel3 / (1000));
-    let runbox = document.getElementById('run-time');
-    runbox.innerHTML = '小站在这片静谧之地已经缓缓流淌了<i class="far fa-clock fa-fw"></i> '
-        + ((days < 10) ? '0' : '') + days + ' 天 '
-        + ((hours < 10) ? '0' : '') + hours + ' 时 '
-        + ((minutes < 10) ? '0' : '') + minutes + ' 分 '
-        + ((seconds < 10) ? '0' : '') + seconds + ' 秒 ';
+    let dd = document.getElementById('days');
+	let hh = document.getElementById('hours');
+	let mm = document.getElementById('minutes');
+	let ss = document.getElementById('seconds');
+    dd.innerHTML = '<i class="far fa-clock fa-fw"></i> '
+        + ((days < 10) ? '0' : '') + days;
+	hh.innerHTML = '<i class="far fa-clock fa-fw"></i> '
+        + ((hours < 10) ? '0' : '') + hours;
+	mm.innerHTML = '<i class="far fa-clock fa-fw"></i> '
+        + ((minutes < 10) ? '0' : '') + minutes;
+	ss.innerHTML = '<i class="far fa-clock fa-fw"></i> '
+        + ((seconds < 10) ? '0' : '') + seconds;
 }
 runtime();

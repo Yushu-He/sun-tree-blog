@@ -22,9 +22,9 @@ article:
 
 notFound:
     title:
-        other: 404 错误
+        other: 似乎迷路了QAQ
     subtitle:
-        other: 页面不存在
+        other: 页面丢失, 请检查您的链接是否正确
 
 widget:
     archives:
@@ -55,6 +55,9 @@ search:
 footer:
     builtWith:
         other: 自豪地由 {{ .Generator }} 编译
+
+    runningTime:
+        other: 小站在这片静谧之地已经缓缓流淌了 {{ .Days }} 天 {{ .Hours }} 小时 {{ .Minutes }} 分 {{ .Seconds }} 秒
 
     visitorNum:
         other: 至今有 {{ .VisitorNumber }} 人温柔地路过

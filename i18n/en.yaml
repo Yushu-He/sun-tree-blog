@@ -69,6 +69,9 @@ footer:
     builtWith:
         other: Built with {{ .Generator }}
     
+    runningTime:
+        other: This blog has been up and running for {{ .Days }} D {{ .Hours }} H {{ .Minutes }} M {{ .Seconds }} S
+
     visitorNum:
         other: Till now, {{ .VisitorNumber }} visitors have tenderly left their footprints here
 
