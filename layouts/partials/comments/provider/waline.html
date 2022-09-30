@@ -14,8 +14,8 @@
     }
 </style>
 
-{{- with .Site.Params.comments.waline -}}
 {{- $lang := .Site.Language.Lang -}}
+{{- with .Site.Params.comments.waline -}}
 {{- $config := dict "el" "#waline" "dark" `html[data-scheme="dark"]` "lang" $lang -}}
 {{- $replaceKeys := dict "serverurl" "serverURL" "requiredmeta" "requiredMeta" "wordlimit" "wordLimit" "pagesize" "pageSize" "imageuploader" "imageUploader" "texrenderer" "texRenderer" -}}
 
