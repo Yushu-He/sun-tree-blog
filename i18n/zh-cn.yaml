@@ -56,10 +56,8 @@ footer:
     builtWith:
         other: 自豪地由 {{ .Generator }} 编译
 
-    runningTime:
-    
     visitorNum:
-        other: 至今由 {{ .VisitorNumber }} 人温柔地路过
+        other: 至今有 {{ .VisitorNumber }} 人温柔地路过
 
     designedBy:
         other: 主题 {{ .Theme }} 由 {{ .DesignedBy }} 设计

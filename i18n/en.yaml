@@ -68,8 +68,6 @@ search:
 footer:
     builtWith:
         other: Built with {{ .Generator }}
-
-    runningTime:
     
     visitorNum:
         other: Till now, {{ .VisitorNumber }} visitors have tenderly left their footprints here
