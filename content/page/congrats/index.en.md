@@ -10,4 +10,6 @@ menu:
             icon: fireworks
 ---
 
+test
+
 <script type="text/javascript" src="/congrats.js"></script>
