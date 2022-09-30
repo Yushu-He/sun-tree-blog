@@ -114,7 +114,6 @@ emoji = ["https://cdn.jsdelivr.net/gh/walinejs/emojis/weibo",
         "https://cdn.jsdelivr.net/gh/walinejs/emojis/qq"]
 requiredMeta = ["name", "email", "url"]
 placeholder = ""
-lang = ""
 highlight = true
 
 [comments.waline.locale]
