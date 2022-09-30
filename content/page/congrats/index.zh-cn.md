@@ -9,3 +9,5 @@ menu:
         params: 
             icon: fireworks
 ---
+
+<script type="text/javascript" src="/congrats.js"></script>

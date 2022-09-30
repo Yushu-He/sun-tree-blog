@@ -1,5 +1,5 @@
 ---
-title: 友情链接
+title: 友链
 links:
   - title: GitHub
     description: GitHub是世界上最大的代码托管平台

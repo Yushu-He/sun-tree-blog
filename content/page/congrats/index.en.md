@@ -1,6 +1,6 @@
 ---
 title: Congratulations
-description: Congratulations to all the people who are important to me
+description: Record the big days for you!
 slug: congrats
 lastmod: 2022-10-02
 menu:
@@ -9,3 +9,5 @@ menu:
         params: 
             icon: fireworks
 ---
+
+<script type="text/javascript" src="/congrats.js"></script>
