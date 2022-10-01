@@ -10,6 +10,6 @@ menu:
             icon: fireworks
 ---
 
-test
+## 2022.10.02
 
-<script type="text/javascript" src="/congrats.js"></script>
+Congratulations to Elaine on your happy wedding!
