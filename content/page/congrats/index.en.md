@@ -12,4 +12,4 @@ menu:
 
 ## 2022.10.02
 
-Congratulations to Elaine on your happy wedding!
+[Congratulations](https://congrats-to-elaine.sun-tree.ink/ "Hope you enjoy it! :)") to Elaine on your happy wedding!

@@ -12,4 +12,4 @@ menu:
 
 ## 2022.10.02
 
-祝美丽的Elaine女士新婚快乐！青春永驻，容颜不老！
+祝美丽的Elaine女士[新婚快乐](https://congrats-to-elaine.sun-tree.ink/ "希望你喜欢! :)")！青春永驻，容颜不老！
