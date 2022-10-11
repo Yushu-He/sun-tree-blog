@@ -33,9 +33,9 @@ TODO: 为本文章添加一些图片以使教程更为清晰
         - 优点：开源、跨平台
         - 支持架构：arm64，x64
         - 下载渠道：
-          - <i class="fa fa-windows"></i>&nbsp;[Microsoft Store](https://apps.microsoft.com/store/detail/watt-toolkit/9MTCFHS560NG?hl=zh-cn&gl=cn "大多数人的操作系统")
+          - <i class="fa-brands fa-windows"></i>&nbsp;[Microsoft Store](https://apps.microsoft.com/store/detail/watt-toolkit/9MTCFHS560NG?hl=zh-cn&gl=cn "大多数人的操作系统")
           - ![Arch](https://aur.archlinux.org/static/images/favicon.ico)[AUR](https://aur.archlinux.org/packages/watt-toolkit-bin "Well...btw, I don't use Arch? (Just a joke lol)")
-          - <i class="fa fa-windows"></i>&nbsp;<i class="fa fa-apple"></i>&nbsp;<i class="fa fa-linux"></i>&nbsp;[GitHub Releases](https://github.com/BeyondDimension/SteamTools/releases/latest "你必须先访问GitHub以获得访问GitHub的方法……嗯？")
+          - <i class="fa-brands fa-windows"></i>&nbsp;<i class="fa-brands fa-apple"></i>&nbsp;<i class="fa-brands fa-linux"></i>&nbsp;[GitHub Releases](https://github.com/BeyondDimension/SteamTools/releases/latest "你必须先访问GitHub以获得访问GitHub的方法……嗯？")
       - 修改本地hosts（相对来说不推荐，似乎成功几率不高）
         1. 访问 [IP Address->GitHub]([www.ipaddress.com](https://ipaddress.com/website/github.com))
         2. 在 “What are GitHub DNS Records” 中，你能找到一个Type为A的记录，这个就是GitHub的服务器地址，将其加入hosts，可以绕过DNS污染，但是不能访问被墙的网站。

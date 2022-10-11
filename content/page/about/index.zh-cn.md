@@ -25,7 +25,7 @@ menu:
 通过 Hugo 你可以快速搭建你的静态网站，比如博客系统、文档介绍、公司主页、产品介绍等等。相对于其他静态网站生成器来说，Hugo 具备如下特点：
 
 * 极快的页面编译生成速度。（ ~1&nbsp;ms 每页面）
-* 完全跨平台支持，可以运行在 <i class="fa fa-apple"></i>&nbsp;Mac OS&nbsp;X, <i class="fa fa-linux"></i>&nbsp;Linux, <i class="fa fa-windows"></i>&nbsp;Windows, 以及更多!
+* 完全跨平台支持，可以运行在 <i class="fa-brands fa-apple"></i>&nbsp;Mac OS&nbsp;X, <i class="fa-brands fa-linux"></i>&nbsp;Linux, <i class="fa-brands fa-windows"></i>&nbsp;Windows, 以及更多!
 * 安装方便 [Installation](/doc/overview/installing/)
 * 本地调试 [Usage](/doc/overview/usage/) 时通过 [LiveReload](/doc/extras/livereload/) 自动即时刷新页面。
 * 完全的皮肤支持。
