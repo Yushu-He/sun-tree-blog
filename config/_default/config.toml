@@ -14,8 +14,3 @@ hasCJKLanguage = true
 
 # Change it to your Disqus shortname before using
 disqusShortname = "sun-tree"
-
-[markup]
-	[markup.goldmark]
-		[markup.goldmark.renderer]
-			unsafe = true
