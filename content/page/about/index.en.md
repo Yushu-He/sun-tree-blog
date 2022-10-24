@@ -16,7 +16,7 @@ menu:
 
 ## About this blog
 
-This blog is currently deployed with [Hugo](#about-hugo), automatically built with [Netlify](https://www.netlify.com/), with the theme [Stack](https://github.com/CaiJimmy/hugo-theme-stack). 
+This blog is currently deployed with [Hugo](#about-hugo), automatically built with [Netlify](https://www.netlify.com/), with the theme [Stack](https://github.com/CaiJimmy/hugo-theme-stack). And the comments system is supported by [Waline](https://waline.js.org/).
 
 ## About Hugo
 
@@ -40,4 +40,18 @@ Learn more and contribute on [GitHub](https://github.com/gohugoio).
 
 ## About Me
 
+### Who I am
+
 Sophomore in SJTU-UMJI, major in ECE, you can contact me with my email [ajsxhys@outlook.com](mailto:ajsxhys@outlook.com).
+
+### What I like
+
+#### General
+
+New and advanced technolohy always makes me excited.
+
+#### Sports
+
+Soccer, and sometimes billiards
+
+But due to epedemic, seldom do I have chance for any of them, sad.

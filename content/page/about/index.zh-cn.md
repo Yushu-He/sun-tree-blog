@@ -16,7 +16,7 @@ menu:
 
 ## 关于小站
 
-本博客使用[Hugo](#关于hugo)构建，由[Netlify](https://www.netlify.com/)提供自动编译，采用主题[Stack](https://github.com/CaiJimmy/hugo-theme-stack)
+本博客使用[Hugo](#关于hugo)构建，由[Netlify](https://www.netlify.com/)提供自动编译，采用主题[Stack](https://github.com/CaiJimmy/hugo-theme-stack)。评论系统由[Waline](https://waline.js.org/)驱动。
 
 ## 关于Hugo
 
@@ -33,4 +33,18 @@ menu:
 
 ## 关于我
 
+### 目前状态
+
 目前就读于上海交通大学密西根学院，电子计算机工程专业大二学生，热衷于探究各种科技的无限可能，欢迎通过我的邮箱[ajsxhys@outlook.com](mailto:ajsxhys@outlook.com)联系我
+
+### 我的兴趣
+
+#### 概述
+
+一切新奇而富有技术性的
+
+#### 运动
+
+足球，偶尔打台球
+
+不过因为疫情这两个爱好已经好久没能在线下进行了……
