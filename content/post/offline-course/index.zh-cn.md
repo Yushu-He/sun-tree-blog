@@ -31,10 +31,10 @@ tags:
 
 二餐的蒸饺和豆腐脑 QvQ
 
-![蒸饺](./breakfast1.webp)
+![蒸饺](breakfast1.webp)
 
 蒸饺好吃 QwQ
 
-![豆腐脑](./breakfast2.webp)
+![豆腐脑](breakfast2.webp)
 
 豆腐脑也好吃 :P
