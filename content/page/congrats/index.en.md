@@ -2,7 +2,7 @@
 title: Congratulations
 description: Record the big days for you!
 slug: congrats
-lastmod: 2022-10-02
+lastmod: 2022-11-04
 menu:
     main:
         weight: 5
