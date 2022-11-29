@@ -1,5 +1,5 @@
 ---
-title: Congratulations
+title: Congrats
 description: Record the big days for you!
 slug: congrats
 lastmod: 2022-11-04
