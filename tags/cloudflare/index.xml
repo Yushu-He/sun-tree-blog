@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cloudflare on Susurrate</title><link>https://sun-tree.ink/tags/cloudflare/</link><description>Recent content in Cloudflare on Susurrate</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 22 Sep 2022 16:43:11 +0000</lastBuildDate><atom:link href="https://sun-tree.ink/tags/cloudflare/index.xml" rel="self" type="application/rss+xml"/><item><title>Some options in cloudflare which you can open to accelerate the opening speed of your website.</title><link>https://sun-tree.ink/p/accelerate-open-speed/</link><pubDate>Thu, 22 Sep 2022 16:43:11 +0000</pubDate><guid>https://sun-tree.ink/p/accelerate-open-speed/</guid><description>&lt;img src="https://sun-tree.ink/p/accelerate-open-speed/cover.webp" alt="Featured image of post Some options in cloudflare which you can open to accelerate the opening speed of your website." />&lt;p>First, go to the dashboard-speed-optimization and you can see all the options there.&lt;/p>
+&lt;p>What I opened:&lt;/p>
+&lt;ul>
+&lt;li>Auto Minify
+&lt;ul>
+&lt;li>Javascript&lt;/li>
+&lt;li>CSS&lt;/li>
+&lt;li>HTML&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Brotli&lt;/li>
+&lt;li>Early Hints&lt;/li>
+&lt;/ul>
+&lt;p>I didn&amp;rsquo;t open &lt;code>Rocket Loader&lt;/code>, because it seems that my hugo theme has some errors with it when loading the left sidebar. You can try it and see whether it works.&lt;/p>
+&lt;p>That&amp;rsquo;s all for this, see you next time~ :)&lt;/p></description></item><item><title>Build Your Own Blog Website With Hugo</title><link>https://sun-tree.ink/p/build-your-own-blog-website/</link><pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate><guid>https://sun-tree.ink/p/build-your-own-blog-website/</guid><description>&lt;img src="https://sun-tree.ink/p/build-your-own-blog-website/cover.webp" alt="Featured image of post Build Your Own Blog Website With Hugo" />&lt;p>This guy is too lazy, the post is still not finished yet&amp;hellip;&lt;/p>
+&lt;p>You can urge him through bilibili or github :)&lt;/p></description></item></channel></rss>

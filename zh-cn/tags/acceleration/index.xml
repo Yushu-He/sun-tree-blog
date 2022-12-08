@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Acceleration on 花叶呢喃</title><link>https://sun-tree.ink/zh-cn/tags/acceleration/</link><description>Recent content in Acceleration on 花叶呢喃</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 22 Sep 2022 16:43:11 +0000</lastBuildDate><atom:link href="https://sun-tree.ink/zh-cn/tags/acceleration/index.xml" rel="self" type="application/rss+xml"/><item><title>【优化】开启Cloudflare一些优化选项</title><link>https://sun-tree.ink/zh-cn/p/accelerate-open-speed/</link><pubDate>Thu, 22 Sep 2022 16:43:11 +0000</pubDate><guid>https://sun-tree.ink/zh-cn/p/accelerate-open-speed/</guid><description>&lt;img src="https://sun-tree.ink/zh-cn/p/accelerate-open-speed/cover.webp" alt="Featured image of post 【优化】开启Cloudflare一些优化选项" />&lt;p>首先，前往控制面板-速度-优化，就能看到全部可以开启的优化选项&lt;/p>
+&lt;p>我最终开启的:&lt;/p>
+&lt;ul>
+&lt;li>Auto Minify
+&lt;ul>
+&lt;li>Javascript&lt;/li>
+&lt;li>CSS&lt;/li>
+&lt;li>HTML&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Brotli&lt;/li>
+&lt;li>Early Hints&lt;/li>
+&lt;/ul>
+&lt;p>我没有开启 &lt;code>Rocket Loader&lt;/code>这个选项, 我发现它会让我使用的主题在加载侧边栏的时候出现一些问题，你可以试试看它在你的主题上能不能使用&lt;/p>
+&lt;p>大概就这些，我们下次再见~ :)&lt;/p></description></item></channel></rss>
