@@ -9,10 +9,13 @@ menu:
         params: 
             icon: fireworks
 ---
+## 2022.12.09
+
+Happy birthday to myself! "What's past is prologue. Love all, trust a few, do wrong to none."
 
 ## 2022.11.04
 
-Happy birday to my chum Geral! Embrace your twenties! We will always be by your side.
+Happy birthday to my chum Geral! Embrace your twenties! We will always be by your side.
 
 ## 2022.10.02
 

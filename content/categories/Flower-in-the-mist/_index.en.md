@@ -1,5 +1,5 @@
 ---
-title: Flower-in-the-mist
+title: Flower in the mist
 description: My thoughts about my life and the world
 image: "flower-in-the-mist.webq"
 
