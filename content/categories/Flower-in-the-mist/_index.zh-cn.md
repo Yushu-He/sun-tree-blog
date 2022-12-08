@@ -1,7 +1,7 @@
 ---
 title: 雾中花
 description: 我对人生和世界的思考
-image: "flower-in-the-mist.webq"
+image: "Flower-in-the-mist.webq"
 
 # Badge style
 style:
