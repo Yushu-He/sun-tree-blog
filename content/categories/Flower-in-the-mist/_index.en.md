@@ -1,7 +1,7 @@
 ---
 title: Flower in the mist
 description: My thoughts about my life and the world
-image: "Flower-in-the-mist.webq"
+image: "Flower-in-the-mist.webp"
 
 # Badge style
 style:
