@@ -1,7 +1,7 @@
 ---
 title: Blog-development
 description: Recording the development of this website 
-image: "blog-development.jpg"
+image: "blog-development.webp"
 
 # Badge style
 style:

@@ -3,7 +3,7 @@ title: Some options in cloudflare which you can open to accelerate the opening s
 description: A recording of some options I opened in cloudflare to accelerate the opening speed of my blog
 slug: accelerate-open-speed
 date: 2022-09-22 16:43:11+0000
-image: cover.jpg
+image: cover.webp
 categories:
     - Blog-development
 tags:

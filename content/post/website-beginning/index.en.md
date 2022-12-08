@@ -3,7 +3,7 @@ title: My blog is now online
 description: A recording that my blog is online
 slug: website-beginning
 date: 2022-09-13 16:43:29+0000
-image: cover.jpg
+image: cover.webp
 categories:
     - Blog-development
 tags:

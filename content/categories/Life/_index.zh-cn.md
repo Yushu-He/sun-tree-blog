@@ -1,7 +1,7 @@
 ---
 title: 日常
 description: 日常生活记录
-image: "life.jpg"
+image: "life.webp"
 
 # Badge style
 style:

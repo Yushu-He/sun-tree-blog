@@ -1,7 +1,7 @@
 ---
 title: Technology
 description: Technology tutorial & Recording of my practice/view on technology
-image: "technology.jpg"
+image: "technology.webp"
 
 # Badge style
 style:

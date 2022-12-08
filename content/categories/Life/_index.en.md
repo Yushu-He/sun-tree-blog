@@ -1,7 +1,7 @@
 ---
 title: Life
 description: Daily Life recording
-image: "life.jpg"
+image: "life.webp"
 
 # Badge style
 style:

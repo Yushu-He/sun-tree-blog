@@ -3,7 +3,7 @@ title: 交大封锁了
 description: 交大因为突然出现的核酸阳性暂时封锁了……
 slug: sjtu-epidemic-lock-down
 date: 2022-09-13 12:33:00+0000
-image: cover.jpg
+image: cover.webp
 categories:
     - Life
 tags:

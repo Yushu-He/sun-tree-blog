@@ -3,7 +3,7 @@ title: 交大解封了！！！
 description: 解封了！！！
 slug: sjtu-reopen
 date: 2022-09-21 22:33:17+0000
-image: cover.jpg
+image: cover.webp
 categories:
     - Life
 tags:

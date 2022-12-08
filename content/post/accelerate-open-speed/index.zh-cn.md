@@ -3,7 +3,7 @@ title: 【优化】开启Cloudflare一些优化选项
 description: 记录我开启的一些Cloudflare中的优化选项
 slug: accelerate-open-speed
 date: 2022-09-22 16:43:11+0000
-image: cover.jpg
+image: cover.webp
 categories:
     - Blog-development
 tags:
