@@ -1,6 +1,6 @@
 ---
 title: Links
-description: 空缺内容会以标准内容填充哦QwQ，可以联系我更新，比如空缺介绍就会是“友人的小屋”
+description: Empty content will be filled with default sets. You can contact me to update them :)
 links:
   - title: GitHub
     description: GitHub is the world's largest software development platform.
