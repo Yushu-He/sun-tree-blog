@@ -1,7 +1,6 @@
 ---
 title: 友链
-description: ——你也是森林中的一颗树吗
-空缺内容会以标准内容填充哦QwQ，可以联系我更新，比如空缺介绍就会是“友人的小屋”，空缺头像会被一颗树代替QvQ。
+description: 你也是森林中的一颗树吗?
 links:
   - title: GitHub
     description: GitHub是世界上最大的代码托管平台
@@ -23,3 +22,4 @@ menu:
 
 comments: false
 ---
+空缺内容会以标准内容填充哦QwQ，可以联系我更新，比如空缺介绍就会是“友人的小屋”，空缺头像会被一颗树代替QvQ。

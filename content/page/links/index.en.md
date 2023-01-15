@@ -1,6 +1,6 @@
 ---
 title: Links
-description: Empty content will be filled with default sets. You can contact me to update them :)
+description: Are you also a tree in the forest?
 links:
   - title: GitHub
     description: GitHub is the world's largest software development platform.
@@ -18,3 +18,4 @@ menu:
 
 comments: false
 ---
+Empty content will be filled with default sets. You can contact me to update them :)
